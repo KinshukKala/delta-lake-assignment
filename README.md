@@ -61,11 +61,11 @@ Files included:
 
 ## Repository Structure
 
-delta-lake-assignment/
-│
-├── data/ \
-├── notebooks/ \ 
-├── report/ \
+delta-lake-assignment/\
+│\
+├── data/\
+├── notebooks/\ 
+├── report/\
 └── README.md
 
 ---
