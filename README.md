@@ -59,6 +59,17 @@ Files included:
 
 ---
 
+## Repository Structure
+
+delta-lake-assignment/
+│
+├── data/
+├── notebooks/
+├── report/
+└── README.md
+
+---
+
 ## Results
 
 - Loaded CSV into Delta Lake
