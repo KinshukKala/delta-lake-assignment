@@ -63,9 +63,9 @@ Files included:
 
 delta-lake-assignment/
 │
-├── data/
-├── notebooks/
-├── report/
+├── data/ \
+├── notebooks/ \ 
+├── report/ \
 └── README.md
 
 ---
